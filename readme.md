@@ -23,7 +23,7 @@ Este projeto visa o controle de um servomotor utilizando PWM (Pulse Width Modula
 ## Instalação e Uso
 1. Clone o repositório:
    ```bash
-   git clone (https://github.com/LeonardoGermano/tarefa_servo_motor.git)
+   git clone https://github.com/LeonardoGermano/tarefa_servo_motor.git
    ```
 2. Compile e carregue o código para a Raspberry Pi Pico W utilizando o Pico SDK.
 3. Execute a simulação no Wokwi.
