@@ -32,7 +32,7 @@ Este projeto visa o controle de um servomotor utilizando PWM (Pulse Width Modula
 Descreva o comportamento do LED RGB ao executar o código no BitDogLab.
 
 ## Vídeo Demonstrativo
-[--]
+(https://youtu.be/2wwS6Gf-OGQ)
 
 ## Autor
 Leonardo Jonatan
